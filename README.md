@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# projeto gym
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
